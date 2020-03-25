@@ -10,3 +10,7 @@ def five
 end
 
 5 + five = 10
+
+def math(x,y)
+  return x + y;
+end
