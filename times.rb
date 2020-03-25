@@ -3,16 +3,3 @@ def using_times
   puts "Wingardium Leviosa"
 end
 end
-
-
-def five
-  return 5
-end
-
-5 + five = 10
-
-def math(x,y)
-  return x + y;
-end
-
-math(5,10) = 15
