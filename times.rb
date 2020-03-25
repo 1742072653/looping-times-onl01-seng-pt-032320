@@ -14,3 +14,5 @@ end
 def math(x,y)
   return x + y;
 end
+
+math(5,10) = 15
