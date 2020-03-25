@@ -3,3 +3,10 @@ def using_times
   puts "Wingardium Leviosa"
 end
 end
+
+
+def five
+  return 5
+end
+
+5 + five = 10
